@@ -87,7 +87,7 @@ public class Main {
 
             }
         if(j==0){
-            int charCount;//считает количество знаков числе
+            int charCount;//считает количество знаков в числе
             int i=0;
             roman=1;
             while(i<string.length()){
